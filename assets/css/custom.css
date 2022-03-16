@@ -7,4 +7,11 @@
 
 .btn-orange {
   background-color: #e78724;
+  color: white;
+  border: 1px solid #e78724;
+  transition: 1s;
+}
+.btn-orange:hover {
+  background-color: white;
+  color: #e78724;
 }
